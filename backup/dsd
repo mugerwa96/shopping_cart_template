@@ -1,0 +1,16 @@
+ <!-- <!-customer-details-  -->
+                                  <div class="person-details">
+                                    <div class="circle">
+                                        <img src="/site-image/12.jpg" alt="">
+                                    </div>
+                                    <div class="name">
+                                      <p class="font-weight-bold text-center">
+                                        <span>Pretty K</span> <br>
+                                        <span>Customer</span>
+                                      </p>
+                                      <p class="text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente quaerat consequatur minima.</p>
+                                    </div>
+                                  
+                                  </div>
+                        <!-- <!-customer-details-  -->
+                        </div>
